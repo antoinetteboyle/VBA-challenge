@@ -1,6 +1,6 @@
 # VBA-challenge
-Microsoft Excel VBA Scripting
-VBA scripting is used to analyze real stock market data.
+
+Microsoft Excel VBA Scripting is used to analyze real stock market data.
 
 Looping through a large data set of stock prices over 3 years using macro enabled button:
 
@@ -13,3 +13,4 @@ Created a script that loops through all the stocks for one year and outputs the 
   * Returns the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
   * By the click of a macro-enabled button this VBA script runs on every worksheet, i.e., every year, just by running the VBA script once.
 
+Used the sheet `alphabetical_testing.xlsx` while developing the code. This data set is smaller and allows faster testing.
